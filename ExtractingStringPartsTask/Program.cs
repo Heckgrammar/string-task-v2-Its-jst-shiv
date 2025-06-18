@@ -23,7 +23,7 @@
                 if (landmark[i] == 'c')
                 {
                     indexOfC = i;
-                    break; // Found the first 'c', exit loop
+                    break; 
                 }
             }
 
