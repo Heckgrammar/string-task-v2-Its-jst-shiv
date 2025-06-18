@@ -12,5 +12,6 @@ Q6 + Q7:
 ![image](https://github.com/user-attachments/assets/e9370fb2-c0e5-4fe5-b2bb-60cd0282ccf2)
 Q8:
 ![image](https://github.com/user-attachments/assets/173b6523-e212-4348-a6aa-7bbaadf11e7f)
+
 Result of all Q's:
 ![image](https://github.com/user-attachments/assets/71f583d0-3bec-4022-9531-db96ea37632c)
